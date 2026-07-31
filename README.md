@@ -4,6 +4,7 @@
 Aspiring SOC Analyst passionate about cybersecurity, threat detection and incident response. Currently building hands-on skills across email forensics, network security, SIEM platforms and threat intelligence.
 
 ## Skills In Progress
+- Security Frameworks (MITRE ATT&CK, Cyber Kill Chain, NIST IR Lifecycle)
 - Phishing Analysis & Email Forensics
 - Network Traffic Analysis
 - SIEM (Microsoft Sentinel, Splunk)
@@ -21,6 +22,8 @@ Aspiring SOC Analyst passionate about cybersecurity, threat detection and incide
 | 5 | Honeypot & Canary Token Setup | Deception technology | 🔄 Coming Soon |
 | 6 | Microsoft Sentinel SIEM Setup | Log ingestion, alert rules | 🔄 Coming Soon |
 | 7 | Threat Hunt Report | Threat intelligence, KQL | 🔄 Coming Soon |
+
+
 
 ## Certifications & Learning
 - [ ] CompTIA Security+
